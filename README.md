@@ -48,7 +48,9 @@ Esses números descrevem a exportação analisada. O ano e a unidade monetária 
 
 ## Visualização
 
-A documentação foi preparada a partir de uma exportação em PDF de uma página. O PDF ainda não foi adicionado a este repositório.
+**[Visualizar o dashboard em PDF](./Senac%20aula%201.pdf)**
+
+O PDF apresenta o dashboard completo em uma página.
 
 A exportação é estática. Os filtros e demais interações dependem do relatório original; o arquivo `.pbix` e o link interativo ainda não estão disponíveis.
 
